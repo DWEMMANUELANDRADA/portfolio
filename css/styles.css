@@ -257,14 +257,14 @@ box-shadow: inset 20px 20px 11px #bebebe,
     background: #162c3b;
     text-align: center;
 } .imgbx2{
-    background: url(.img/imagen\ avatar.jpeg);
+    background: url(img/imagen\ avatar.jpeg);
     background-size: cover;
     background-position:center ;
     width: 50%;
 
 
 } .redbg{
-    background: url(.img/red.jpg) !important;
+    background: url(img/red.jpg) !important;
     background-size: cover;
     background-position:center ;
     width: 50%; 
